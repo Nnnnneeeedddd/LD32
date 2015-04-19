@@ -1,0 +1,10 @@
+<level>
+  <background path="/levels/level3/chooseM.png"/>
+  
+  <entity type="player" x="0" y="0"/>
+  
+  <collision x="0" y="0" width="100" height="300" id="16"/>
+  <collision x="100" y="0" width="100" height="300" id="17"/>
+  <collision x="200" y="0" width="100" height="300" id="18"/>
+  <collision x="300" y="0" width="100" height="300" id="19"/>
+</level>

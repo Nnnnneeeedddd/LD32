@@ -1,0 +1,13 @@
+<level>
+  <background path="/levels/level2/road.png"/>
+  <entity type="player" x="350" y="250"/>
+  <entity type="cars" x="0" y="0"/>
+  <entity type="door" x="0" y="0" locks="0"/>
+  
+  <collision x="0" y="0" width="400" height="100" id="0"/>
+  <collision x="150" y="258" width="30" height="30" id="12"/>
+  <collision x="8" y="89" width="30" height="30" id="13"/>
+  <collision x="340" y="85" width="30" height="30" id="14"/>
+  <collision x="39" y="231" width="20" height="40" id="15"/>
+  <collision x="198" y="65" width="30" height="50" id="5"/>
+</level>
